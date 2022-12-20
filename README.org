@@ -1,3 +1,3 @@
 * JUPYTER
-  A collection of jupyter notebooks thkat I use for reference and
-  thying new things
+  A collection of jupyter notebooks that I use for reference and
+  trying new things
